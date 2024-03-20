@@ -11,7 +11,7 @@ export default () => {
                 Discord has crashed.
             </Text>
             <Text style={styles.headerLeftSectionBody}>
-                Don't worry! We'll fix this soon. Relax and take Kemonomimi-chan in the meantime.
+                Don't worry! We'll fix this soon. Relax and take Shiggy in the meantime.
             </Text>
             </View>
             <View style={styles.headerRightSection}>
